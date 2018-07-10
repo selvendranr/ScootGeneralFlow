@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default suite">
+  
+ <test verbose="2" name="one">
+  <parameter name="indexVal" value="1"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.StaticFareTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="two">
+  <parameter name="indexVal" value="2"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.StaticFareTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="three">
+  <parameter name="indexVal" value="3"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.StaticFareTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="Four">
+  <parameter name="indexVal" value="4"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.StaticFareTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="five">
+  <parameter name="indexVal" value="5"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.StaticFareTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="Six">
+  <parameter name="indexVal" value="6"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.StaticFareTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->

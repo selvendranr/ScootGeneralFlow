@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default suite">
+  
+<test verbose="2" name="one">
+  <parameter name="indexVal" value="1"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="two">
+  <parameter name="indexVal" value="2"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="three">
+  <parameter name="indexVal" value="3"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="Four">
+  <parameter name="indexVal" value="4"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="five">
+  <parameter name="indexVal" value="5"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="Six">
+  <parameter name="indexVal" value="6"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+  
+<test verbose="2" name="seven">
+  <parameter name="indexVal" value="7"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="eight">
+  <parameter name="indexVal" value="8"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="nine">
+  <parameter name="indexVal" value="9"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="Ten">
+  <parameter name="indexVal" value="10"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+<test verbose="2" name="oneone">
+  <parameter name="indexVal" value="11"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="onetwo">
+  <parameter name="indexVal" value="12"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="onethree">
+  <parameter name="indexVal" value="13"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="oneFour">
+  <parameter name="indexVal" value="14"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="onefive">
+  <parameter name="indexVal" value="15"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="oneSix">
+  <parameter name="indexVal" value="16"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+  
+<test verbose="2" name="oneseven">
+  <parameter name="indexVal" value="17"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="oneeight">
+  <parameter name="indexVal" value="18"/>
+    <classes>
+      <class name="ScootGeneral.ScootGeneralFlow.DownSizeRequestTest"/>
+       
+    </classes>
+  </test> <!-- Default test -->
+  
+</suite> <!-- Default suite -->

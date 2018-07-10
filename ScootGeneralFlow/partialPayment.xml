@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default suite">
+ 
+ 
+   
+  
+  
+  <test verbose="2" name="one">
+  
+    <classes>
+      <class name="CommonPack.EthiopianPack.PartialPaymentTest"/>
+         <parameter name="indexVal" value="1"/>       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="Two">
+  
+    <classes>
+      <class name="CommonPack.EthiopianPack.PartialPaymentTest"/>
+         <parameter name="indexVal" value="2"/>       
+    </classes>
+  </test> <!-- Default test -->
+  
+   <test verbose="2" name="Three">
+  
+    <classes>
+      <class name="CommonPack.EthiopianPack.PartialPaymentTest"/>
+         <parameter name="indexVal" value="3"/>       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="Four">
+  
+    <classes>
+      <class name="CommonPack.EthiopianPack.PartialPaymentTest"/>
+         <parameter name="indexVal" value="4"/>       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="Five">
+  
+    <classes>
+      <class name="CommonPack.EthiopianPack.PartialPaymentTest"/>
+         <parameter name="indexVal" value="5"/>       
+    </classes>
+  </test> <!-- Default test -->
+   <test verbose="2" name="Six">
+  
+    <classes>
+      <class name="CommonPack.EthiopianPack.PartialPaymentTest"/>
+         <parameter name="indexVal" value="6"/>       
+    </classes>
+  </test> <!-- Default test -->
+  
+    
+ 
+</suite> <!-- Default suite -->
